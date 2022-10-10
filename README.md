@@ -1,3 +1,4 @@
+<img src="https://images.squarespace-cdn.com/content/v1/55b799b6e4b0abd99ecc36d9/1439847491222-G7NI5FTHPNWW2OD2H38T/banner3-01.png?format=2500w">
 <h1 align="center">Hi 👋, I'm Suchit Dubey</h1>
 <h3 align="center">I’m interested in ... Front End Web Development</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
